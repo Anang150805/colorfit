@@ -1,0 +1,1 @@
+"""Modul pengujian otomatis ColorFit."""

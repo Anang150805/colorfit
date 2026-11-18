@@ -1,0 +1,163 @@
+name,hex,undertone,family,hue,saturation,value,label
+Merah Bata,#B7410E,warm,merah,18.11,0.9235,0.7176,Sangat Cocok
+Merah Karang Hangat,#D74826,warm,merah,11.53,0.8233,0.8431,Sangat Cocok
+Kuning Mustard,#E1AD01,warm,kuning,46.07,0.9956,0.8824,Sangat Cocok
+Kuning Emas Tua,#DAA520,warm,kuning,42.9,0.8532,0.8549,Sangat Cocok
+Hijau Olive,#556B2F,warm,hijau,82.0,0.5607,0.4196,Sangat Cocok
+Hijau Sage Hangat,#8A9A5B,warm,hijau,75.24,0.4091,0.6039,Sangat Cocok
+Hijau Lumut,#4A5D23,warm,hijau,79.66,0.6237,0.3647,Sangat Cocok
+Oranye Terakota,#CC4E2A,warm,oranye,13.33,0.7941,0.8,Sangat Cocok
+Oranye Karamel,#C67129,warm,oranye,27.52,0.7929,0.7765,Sangat Cocok
+Oranye Labu Hangat,#D96924,warm,oranye,22.87,0.8341,0.851,Sangat Cocok
+Pink Coral,#F88379,warm,pink,4.72,0.5121,0.9725,Sangat Cocok
+Pink Salmon,#FA8072,warm,pink,6.18,0.544,0.9804,Sangat Cocok
+Coklat Karamel,#8B4513,warm,coklat,25.0,0.8633,0.5451,Sangat Cocok
+Coklat Camel,#C19A6B,warm,coklat,32.79,0.4456,0.7569,Sangat Cocok
+Coklat Tan,#D2B48C,warm,coklat,34.29,0.3333,0.8235,Sangat Cocok
+Coklat Tembaga,#B87333,warm,coklat,28.87,0.7228,0.7216,Sangat Cocok
+Krem Hangat,#F5F5DC,warm,netral,60.0,0.102,0.9608,Sangat Cocok
+Putih Gading (Ivory),#FFF8DC,warm,netral,48.0,0.1373,1.0,Sangat Cocok
+Merah Cabai,#C41E3A,warm,merah,350.19,0.8469,0.7686,Cocok
+Merah Marun Hangat,#801818,warm,merah,0.0,0.8125,0.502,Cocok
+Kuning Mentega,#F6E07E,warm,kuning,49.17,0.4878,0.9647,Cocok
+Kuning Jagung,#FBEC5D,warm,kuning,54.43,0.6295,0.9843,Cocok
+Hijau Khaki,#6B8E23,warm,hijau,79.53,0.7535,0.5569,Cocok
+Hijau Apel Hangat,#8DB600,warm,hijau,73.74,1.0,0.7137,Cocok
+Biru Teal Hangat,#008080,warm,biru,180.0,1.0,0.502,Cocok
+Biru Denim Hangat,#2C5D88,warm,biru,208.57,0.6765,0.5333,Cocok
+Biru Pirus (Turquoise),#40E0D0,warm,biru,174.0,0.7143,0.8784,Cocok
+Ungu Terong Hangat,#4D1A39,warm,ungu,323.53,0.6623,0.302,Cocok
+Ungu Plum Hangat,#701C3C,warm,ungu,337.5,0.75,0.4392,Cocok
+Oranye Aprikot,#FBCEB1,warm,oranye,24.32,0.2948,0.9843,Cocok
+Oranye Peach,#FFE5B4,warm,oranye,39.47,0.2941,1.0,Cocok
+Pink Pastel Hangat,#F4C2C2,warm,pink,0.0,0.2049,0.9569,Cocok
+Coklat Espresso,#362217,warm,coklat,20.65,0.5741,0.2118,Cocok
+Coklat Mahoni,#4C1C13,warm,coklat,9.47,0.75,0.298,Cocok
+Abu-abu Hangat (Warm Taupe),#9E978E,warm,netral,37.5,0.1013,0.6196,Cocok
+Beige Klasik,#E6DBBF,warm,netral,44.62,0.1739,0.902,Cocok
+Merah Crimson Dingin,#990000,warm,merah,0.0,1.0,0.6,Kurang Cocok
+Merah Rubi Dingin,#9B111E,warm,merah,354.07,0.8903,0.6078,Kurang Cocok
+Kuning Lemon Icy,#FFF44F,warm,kuning,56.36,0.6902,1.0,Kurang Cocok
+Kuning Neon Dingin,#FFFF33,warm,kuning,60.0,0.8,1.0,Kurang Cocok
+Hijau Zamrud Dingin,#004B49,warm,hijau,178.4,1.0,0.2941,Kurang Cocok
+Hijau Pinus Dingin,#014421,warm,hijau,148.18,0.9851,0.2627,Kurang Cocok
+Biru Icy,#AFDBF5,warm,biru,202.86,0.2857,0.9608,Kurang Cocok
+Biru Elektrik,#0000FF,warm,biru,240.0,1.0,1.0,Kurang Cocok
+Biru Kobalt,#0047AB,warm,biru,215.15,1.0,0.6706,Kurang Cocok
+Biru Royal,#4169E1,warm,biru,225.0,0.7111,0.8824,Kurang Cocok
+Ungu Lavender Dingin,#967BB6,warm,ungu,267.41,0.3242,0.7137,Kurang Cocok
+Ungu Dingin Royal,#431C53,warm,ungu,282.11,0.6627,0.3255,Kurang Cocok
+Ungu Amethyst Dingin,#9966CC,warm,ungu,270.0,0.5,0.8,Kurang Cocok
+Oranye Neon,#FF5F1F,warm,oranye,17.14,0.8784,1.0,Kurang Cocok
+Pink Fuschia Tajam,#C71585,warm,pink,322.47,0.8945,0.7804,Kurang Cocok
+Pink Magenta Tajam,#FF007F,warm,pink,330.12,1.0,1.0,Kurang Cocok
+Abu-abu Silver Dingin,#C0C0C0,warm,netral,0.0,0.0,0.7529,Kurang Cocok
+Hitam Pekat Dingin,#0A0A0A,warm,netral,0.0,0.0,0.0392,Kurang Cocok
+Biru Navy Klasik,#000080,cool,biru,240.0,1.0,0.502,Sangat Cocok
+Biru Royal Dingin,#4169E1,cool,biru,225.0,0.7111,0.8824,Sangat Cocok
+Biru Safir,#0F52BA,cool,biru,216.26,0.9194,0.7294,Sangat Cocok
+Hijau Zamrud (Emerald),#008055,cool,hijau,160.0,1.0,0.502,Sangat Cocok
+Hijau Pinus Dingin,#004225,cool,hijau,153.53,1.0,0.2588,Sangat Cocok
+Hijau Forest Dingin,#1B4D3E,cool,hijau,162.0,0.6494,0.302,Sangat Cocok
+Ungu Plum Dingin,#701C3C,cool,ungu,337.5,0.75,0.4392,Sangat Cocok
+Ungu Royal Dingin,#6B2D5C,cool,ungu,314.55,0.5794,0.4196,Sangat Cocok
+Ungu Deep Amethyst,#5B2C6F,cool,ungu,281.79,0.6036,0.4353,Sangat Cocok
+Merah Burgundy Dingin,#800020,cool,merah,345.0,1.0,0.502,Sangat Cocok
+Merah Rubi Klasik,#9B111E,cool,merah,354.07,0.8903,0.6078,Sangat Cocok
+Merah Cranberry,#9E1B32,cool,merah,349.62,0.8291,0.6196,Sangat Cocok
+Pink Magenta,#FF007F,cool,pink,330.12,1.0,1.0,Sangat Cocok
+Pink Fuschia,#D9027D,cool,pink,325.65,0.9907,0.851,Sangat Cocok
+Pink Deep Rose,#C2185B,cool,pink,336.24,0.8763,0.7608,Sangat Cocok
+Abu-abu Dingin (Slate),#708090,cool,netral,210.0,0.2222,0.5647,Sangat Cocok
+Putih Bersih (Pure White),#F8F9FA,cool,netral,210.0,0.008,0.9804,Sangat Cocok
+Hitam Elegan,#1A1A1A,cool,netral,0.0,0.0,0.102,Sangat Cocok
+Biru Baby Blue,#89CFF0,cool,biru,199.42,0.4292,0.9412,Cocok
+Biru Ice Blue,#A5F2F3,cool,biru,181.54,0.321,0.9529,Cocok
+Biru Cornflower,#6495ED,cool,biru,218.54,0.5781,0.9294,Cocok
+Hijau Mint Dingin,#98FF98,cool,hijau,120.0,0.4039,1.0,Cocok
+Hijau Seafoam,#71BC78,cool,hijau,125.68,0.3989,0.7373,Cocok
+Hijau Celadon Dingin,#ACE1AF,cool,hijau,123.21,0.2356,0.8824,Cocok
+Ungu Lavender,#B57EDC,cool,ungu,275.11,0.4273,0.8627,Cocok
+Ungu Lilac,#C8A2C8,cool,ungu,300.0,0.19,0.7843,Cocok
+Ungu Periwinkle,#CCCCFF,cool,ungu,240.0,0.2,1.0,Cocok
+Pink Pastel Dingin,#FFD1DC,cool,pink,346.52,0.1804,1.0,Cocok
+Pink Dusty Rose Dingin,#DCAE96,cool,pink,20.0,0.3182,0.8627,Cocok
+Kuning Lemon Dingin,#FAFA33,cool,kuning,60.0,0.796,0.9804,Cocok
+Merah Mawar Raspberry,#E30B5C,cool,merah,337.5,0.9515,0.8902,Cocok
+Coklat Rosy Brown,#BC8F8F,cool,coklat,0.0,0.2435,0.7373,Cocok
+Coklat Cocoa Dingin,#533D35,cool,coklat,16.0,0.3614,0.3255,Cocok
+Abu-abu Perak (Silver),#B0B7C6,cool,netral,219.09,0.1111,0.7765,Cocok
+Abu-abu Charcoal,#36454F,cool,netral,204.0,0.3165,0.3098,Cocok
+Putih Salju,#F0F8FF,cool,netral,208.0,0.0588,1.0,Cocok
+Kuning Mustard Hangat,#E1AD01,cool,kuning,46.07,0.9956,0.8824,Kurang Cocok
+Kuning Kunyit,#FFBF00,cool,kuning,44.94,1.0,1.0,Kurang Cocok
+Kuning Emas Hangat,#DAA520,cool,kuning,42.9,0.8532,0.8549,Kurang Cocok
+Oranye Terakota,#CC4E2A,cool,oranye,13.33,0.7941,0.8,Kurang Cocok
+Oranye Labu Hangat,#D96924,cool,oranye,22.87,0.8341,0.851,Kurang Cocok
+Oranye Karamel Hangat,#C67129,cool,oranye,27.52,0.7929,0.7765,Kurang Cocok
+Oranye Aprikot Hangat,#FBCEB1,cool,oranye,24.32,0.2948,0.9843,Kurang Cocok
+Coklat Camel Hangat,#C19A6B,cool,coklat,32.79,0.4456,0.7569,Kurang Cocok
+Coklat Karamel,#8B4513,cool,coklat,25.0,0.8633,0.5451,Kurang Cocok
+Coklat Karat Hangat,#8B3A22,cool,coklat,13.85,0.7554,0.5451,Kurang Cocok
+Coklat Tan Hangat,#D2B48C,cool,coklat,34.29,0.3333,0.8235,Kurang Cocok
+Hijau Olive Hangat,#556B2F,cool,hijau,82.0,0.5607,0.4196,Kurang Cocok
+Hijau Lumut Hangat,#4A5D23,cool,hijau,79.66,0.6237,0.3647,Kurang Cocok
+Hijau Chartreuse Hangat,#7FFF00,cool,hijau,90.0,1.0,1.0,Kurang Cocok
+Merah Bata Hangat,#B7410E,cool,merah,18.11,0.9235,0.7176,Kurang Cocok
+Pink Coral Hangat,#F88379,cool,pink,4.72,0.5121,0.9725,Kurang Cocok
+Krem Kuning Hangat,#F5F5DC,cool,netral,60.0,0.102,0.9608,Kurang Cocok
+Beige Kuning Hangat,#E6DBBF,cool,netral,44.62,0.1739,0.902,Kurang Cocok
+Pink Dusty Rose Muted,#DCAE96,neutral,pink,20.0,0.3182,0.8627,Sangat Cocok
+Ungu Mauve Seimbang,#915F6D,neutral,ungu,343.6,0.3448,0.5686,Sangat Cocok
+Hijau Soft Sage,#9CAF88,neutral,hijau,93.51,0.2229,0.6863,Sangat Cocok
+Biru Muted Teal,#3B7A85,neutral,biru,189.19,0.5564,0.5216,Sangat Cocok
+Biru Muted Navy,#2C3E50,neutral,biru,210.0,0.45,0.3137,Sangat Cocok
+Coklat Taupe Lembut,#B38B6D,neutral,coklat,26.43,0.3911,0.702,Sangat Cocok
+Coklat Rose Taupe,#905D5D,neutral,coklat,0.0,0.3542,0.5647,Sangat Cocok
+Abu-abu Charcoal Muted,#36454F,neutral,netral,204.0,0.3165,0.3098,Sangat Cocok
+Krem Soft Cream,#E8E4C9,neutral,netral,52.9,0.1336,0.9098,Sangat Cocok
+Ungu Dusty Lavender,#9A8C98,neutral,ungu,308.57,0.0895,0.5961,Sangat Cocok
+Hijau Muted Olive,#6B7B58,neutral,hijau,87.69,0.2846,0.4824,Sangat Cocok
+Oranye Soft Peach Muted,#FAD5A5,neutral,oranye,34.12,0.34,0.9804,Sangat Cocok
+Merah Muted Burgundy,#6A2E35,neutral,merah,352.0,0.566,0.4157,Sangat Cocok
+Ungu Dusty Plum,#5E3A4D,neutral,ungu,326.67,0.383,0.3686,Sangat Cocok
+Coklat Khaki Muted,#A39B7B,neutral,coklat,48.0,0.2454,0.6392,Sangat Cocok
+Abu-abu Heather Gray,#9AA0A6,neutral,netral,210.0,0.0706,0.651,Sangat Cocok
+Kuning Muted Ochre,#C29B38,neutral,kuning,43.26,0.7113,0.7608,Sangat Cocok
+Merah Soft Terracotta,#B85D43,neutral,merah,13.45,0.6359,0.7216,Sangat Cocok
+Biru Deep Navy,#1B263B,neutral,biru,218.18,0.5424,0.2314,Cocok
+Hijau Forest Green Seimbang,#2D5A27,neutral,hijau,112.75,0.5667,0.3529,Cocok
+Merah Classic Wine,#722F37,neutral,merah,353.48,0.5877,0.4471,Cocok
+Biru Denim Muted,#4A6FA5,neutral,biru,215.87,0.5488,0.6471,Cocok
+Kuning Pasir (Sand),#D8C99B,neutral,kuning,44.75,0.2824,0.8471,Cocok
+Coklat Cocoa Muted,#4E3629,neutral,coklat,21.62,0.4744,0.3059,Cocok
+Ungu Plum Muted,#603F63,neutral,ungu,294.47,0.3636,0.3882,Cocok
+Biru Slate Blue,#5B758D,neutral,biru,209.0,0.3521,0.5529,Cocok
+Hijau Soft Mint Muted,#88B2AC,neutral,hijau,171.43,0.236,0.698,Cocok
+Krem Warm Oatmeal,#D1C7BD,neutral,netral,30.0,0.0957,0.8196,Cocok
+Hijau Olive Muted,#556644,neutral,hijau,90.0,0.3333,0.4,Cocok
+Oranye Coral Muted,#D97D64,neutral,oranye,13.1,0.5392,0.851,Cocok
+Abu-abu Ash Gray,#B2BEB5,neutral,netral,135.0,0.0526,0.7451,Cocok
+Biru Midnight Muted,#191970,neutral,biru,240.0,0.7768,0.4392,Cocok
+Coklat Warm Taupe,#7A6A58,neutral,coklat,31.76,0.2787,0.4784,Cocok
+Coklat Camel Muted,#B08D57,neutral,coklat,36.97,0.5086,0.6902,Cocok
+Merah Soft Brick,#A24836,neutral,merah,10.19,0.6667,0.6353,Cocok
+Biru Dusty Turquoise,#53888F,neutral,biru,186.0,0.4196,0.5608,Cocok
+Oranye Neon Menyala,#FF5F1F,neutral,oranye,17.14,0.8784,1.0,Kurang Cocok
+Kuning Neon Stabilo,#FFFF33,neutral,kuning,60.0,0.8,1.0,Kurang Cocok
+Hijau Neon Menyala,#39FF14,neutral,hijau,110.43,0.9216,1.0,Kurang Cocok
+Pink Neon Menyala,#FF1493,neutral,pink,327.66,0.9216,1.0,Kurang Cocok
+Biru Elektrik Tajam,#0000FF,neutral,biru,240.0,1.0,1.0,Kurang Cocok
+Kuning Terang Tajam,#FFEF00,neutral,kuning,56.24,1.0,1.0,Kurang Cocok
+Oranye Terang Tajam,#FF6600,neutral,oranye,24.0,1.0,1.0,Kurang Cocok
+Merah Menyala Tajam,#FF0000,neutral,merah,0.0,1.0,1.0,Kurang Cocok
+Hijau Terang Tajam,#00FF00,neutral,hijau,120.0,1.0,1.0,Kurang Cocok
+Ungu Elektrik Tajam,#8A2BE2,neutral,ungu,271.32,0.8097,0.8863,Kurang Cocok
+Pink Fuschia Silau,#FF00FF,neutral,pink,300.0,1.0,1.0,Kurang Cocok
+Biru Cyan Murni Silau,#00FFFF,neutral,biru,180.0,1.0,1.0,Kurang Cocok
+Hijau Chartreuse Silau,#7FFF00,neutral,hijau,90.0,1.0,1.0,Kurang Cocok
+Kuning Stabilo Silau,#CCFF00,neutral,kuning,75.0,1.0,1.0,Kurang Cocok
+Oranye Lava Silau,#FF4500,neutral,oranye,16.24,1.0,1.0,Kurang Cocok
+Merah Scarlet Tajam,#FF2400,neutral,merah,8.47,1.0,1.0,Kurang Cocok
+Biru Kobalt Tajam,#0047AB,neutral,biru,215.15,1.0,0.6706,Kurang Cocok
+Pink Magenta Silau,#FF0090,neutral,pink,326.12,1.0,1.0,Kurang Cocok
